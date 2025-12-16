@@ -1,4 +1,4 @@
-# Project: From Substitution to Stabilization
+# Project: From Substitution to Stabilization - Practice 
 **Genomic analysis of co-selection risks in *E. coli***
 
 ## 1. Project Overview
