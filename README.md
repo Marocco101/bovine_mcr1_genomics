@@ -74,7 +74,29 @@ Reducing Colistin usage in French veal calves may be insufficient if Sulfamethox
 
 
 ---
+## 4. Phase 3: Visual Verification & Scientific Interpretation
+**Goal:**
+To go beyond simple detection and visually confirm the physical linkage ("The Trap") of these genes on the genome map.
 
+**Methodology:**
+I used the **NCBI Graphics** tool to examine the chromosomal neighborhood of the detected genes.
+- **Accession:** `NZ_CP016182.2` (Chromosome)
+- **Target Region:** ~3,030,000 bp
+
+**Results & My Observation:**
+I successfully visualized the "Integron Trap" structure.
+
+![Integron Trap Map](integron_trap_map.png)
+
+* **Observation 1 (The Trap):**
+As shown in the map above, **`sul1`** and **`dfrA17`** (as *dihydrofolate reductase*) are located right next to each other. This physical linkage means that using Sulfonamides, to replace Colistin, will inevitably co-select for Trimethoprim resistance.
+
+* **Observation 2 (Stabilization):**
+Most importantly, I confirmed that **`mcr-1`**, **`sul1`**, and **`dfrA17`** are all located on the **Chromosome**, not on a plasmid.
+This is a critical finding for my Ph.D. proposal. It suggests that these resistance genes have moved from mobile elements to the chromosome, achieving **"Stabilization."** Once stabilized, these genes are vertically inherited and difficult to eliminate, even if antibiotic use is stopped.
+
+
+---
 ## 5. Phase 4: Future Work (Ph.D. Plan)
 This project validated the detection workflow using a model strain. In my proposed Ph.D. research at ANSES, I will scale this approach:
 
