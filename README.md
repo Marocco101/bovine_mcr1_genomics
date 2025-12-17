@@ -39,7 +39,7 @@ The screening confirmed that this isolate carries multiple critical resistance g
 To see if I could specifically detect the "dangerous combination" of genes mentioned in my research proposal using a custom database.
 
 **My Approach:**
-I created a small custom database file (`integron_trap_db.fasta`) containing only the 4 specific genes I am interested in:
+I created a small custom database file [`integron_trap_db.fasta`](integron_trap_db.fasta)  containing only the 4 specific genes I am interested in:
 1.  **`mcr-1.1`** (Colistin resistance)
 2.  **`sul1`** & **`sul2`** (Sulfamethoxazole resistance)
 3.  **`dfrA17`** (Trimethoprim resistance)
