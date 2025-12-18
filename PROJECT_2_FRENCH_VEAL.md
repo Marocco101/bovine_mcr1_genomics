@@ -28,7 +28,7 @@ The analysis revealed a complex resistance landscape. Unlike the model strain, t
 ### 4.1. Detection of Critical Markers
 My custom database successfully detected **`mcr-1` (Colistin resistance)** and **`sul1` (Sulfonamide resistance)** in this French isolate.
 
-![Targeted Analysis Result](mydbfinder_custom_result_LMBK010000591.png)
+![Targeted Analysis Result](mydbfinder_custom_result_frenchveal.png)
 
 ### 4.2. Gene Substitution (dfrA17 → dfrA1/dfrA36)
 While the model strain (EC590) carried `dfrA17`, the ResFinder analysis revealed that this French isolate utilizes different variants: **`dfrA1`** and **`dfrA36`**. This highlights the evolutionary flexibility of the trap mechanism.
@@ -56,7 +56,7 @@ Using NCBI Graphical Sequence Panel, I confirmed the physical linkage of Pair A 
 * **Coordinates:** `dfrA1` (4660..5133) and `sul1` (6522..7361)
 * **Distance:** Approx. 1.4kb (Adjacent)
 
-![French Veal Map (sul1 + dfrA1)](integron_trap_map_LMBK010000591.png)
+<img src="integron_trap_map_frenchveal.jpg" alt="French Veal Map (sul1 + dfrA1)" width="800">
 
 ## 5. Conclusion & Connection to Ph.D.
 
