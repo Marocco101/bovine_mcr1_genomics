@@ -65,9 +65,9 @@ This analysis proves that the **"Integron Trap" is a reality** in French livesto
 
 ### 5.2. The "EcoAntibio 2" Paradox (RESAPATH Data)
 Recent surveillance data from RESAPATH reveals a critical anomaly. While the French national plan "**EcoAntibio 2**" successfully reduced Colistin resistance initially, a concerning **rebound has been observed since 2019**.
-As shown in the chart below, this rise in **Colistin resistance (Purple line)** appears to coincide with the sharp increase in **Trimethoprim-Sulfonamide resistance (Brown line)** and **Sulfonamide resistance (Dark Green)**.
+As shown in the chart below, this rise in **Colistin resistance (Pink line)** appears to coincide with the sharp increase in **Trimethoprim-Sulfonamide resistance (Yellow line)** and **Sulfonamide resistance (Blue line)**.
 
-![RESAPATH Trend 2006-2024](resapath_trend_2024.png)
+![RESAPATH Trend 2006-2024](resapath_trend_2024.jpg)
 
 ### 5.3. Hypothesis: From Plasmid to Chromosome?
 I hypothesize that this 2019 rebound marks a shift in the genetic architecture of resistance.
