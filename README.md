@@ -51,9 +51,9 @@ Four target genes were successfully detected.
 
 | Gene | Identity | My Observation |
 | :--- | :--- | :--- |
-| **mcr-1.1** | **100.00%** | **Detected.** I confirmed that the colistin resistance gene is present. |
-| **sul1 / sul2** | **100.00%** | **Detected.** Both genes were found perfectly. |
-| **dfrA17** | **100.00%** | **Detected (Partial).** The identity was 100%, but the length was partial (Grey color). |
+| **mcr-1.1** | **100.00%** | **Detected.** The colistin resistance gene is present. |
+| **sul1 / sul2** | **100.00%** | **Detected.** Both genes were found. |
+| **dfrA17** | **100.00%** | **Detected (Partial).** While the identity was 100% (green), the length was partial (grey). |
 
 ![Custom Analysis Result](mydbfinder_custom_result.png)
 
