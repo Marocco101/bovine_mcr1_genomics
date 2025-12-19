@@ -29,7 +29,7 @@ The analysis revealed that the isolate from veal calves in France carries **thre
 ![Targeted Analysis Result](mydbfinder_custom_result_frenchveal.png)
 
 ### 4.2. Gene Substitution (dfrA17 → dfrA1/dfrA36)
-The model strain (EC590) carried dfrA17; however, the ResFinder analysis revealed that this French isolate utilises the dfrA1 and dfrA36 variants instead. This demonstrates the evolutionary flexibility of the trap mechanism.
+The model strain (EC590) carried dfrA17. The French isolate from this project, however, carries the dfrA1 and dfrA36 variants instead, according to ResFinder. This demonstrates the adaptive capacity of the trap mechanism, capable of capturing different but available *dfr* variants while maintaining the core *sul1*. 
 
 ### 4.3. Identification of Three "Trap" Pairs
 The analysis revealed that three different genomic locations where Sulfonamide and Trimethoprim resistance genes are physically linked. This was determined by examining their locations. This redundancy makes losing the resistance genes extremely difficult.
@@ -48,7 +48,7 @@ The analysis revealed that three different genomic locations where Sulfonamide a
     * **Context:** `sul2` is also involved in co-selection traps with different partners.
 
 ### 4.4. Visual Verification (Pair A)
-The physical linkage of Pair A on the contig was confirmed by the visualization by using NCBI Graphical Sequence Panel. 
+The physical linkage of Pair A on the contig was confirmed via the visualization by using NCBI Graphical Sequence Panel. 
 
 * **Contig:** NZ_LMBK01000588.1
 * **Coordinates:** `dfrA1` (4660..5133) and `sul1` (6522..7361)
