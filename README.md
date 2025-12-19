@@ -33,7 +33,7 @@ The interpretation of this analysis is that the simultaneous presence of mcr-1, 
 
 ---
 
-## 3. Phase 2: Targeted Analysis (My Experiment)
+## 3. Phase 2: Targeted Analysis (MyDbFinder)
 **Goal:**
 To see if I could specifically detect the particular combination of genes (mcr-1, sul, dfr) using a custom database created by myself.
 
