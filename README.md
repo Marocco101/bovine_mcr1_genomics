@@ -109,4 +109,4 @@ This project validated the detection workflow using a model strain. In my propos
 - **NCBI Datasets:** Genome acquisition (RefSeq: GCF_001682305.2).
 - **ResFinder 4.1 and  MyDatabase Finder:** Center for Genomic Epidemiology (DTU).
 - **Reference Study (Context):** Um et al. (2022), *High Fecal Prevalence of mcr-Positive E. coli in Veal Calves at Slaughter in France*.
-- **Proposal:** *From Substitution to Stabilization* (M. Fujita).
+- **Proposal:** *Unintended Consequences of Antibiotic Stewardship* (M. Fujita).
