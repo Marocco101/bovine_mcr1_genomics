@@ -1,4 +1,5 @@
-# Project: From Substitution to Stabilization
+# Genomic Context of mcr-1: Investigating the "Genetic Trap"
+
 **Genomic analysis of co-selection risks in *E. coli***
 
 ## 1. Project Overview
