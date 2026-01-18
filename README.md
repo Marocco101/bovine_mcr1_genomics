@@ -2,6 +2,17 @@
 
 **Genomic analysis of co-selection risks in *E. coli***
 
+## Summary & Key Implications
+
+**Main Objective:** To characterize the genomic context of *mcr-1* and validate the "Genetic Trap" hypothesis using Targeted AMR screening.
+
+### Summary of Preliminary Findings
+* **Chromosomal Integration:** Analysis of the high-risk reference isolate (LMBK, 2016) revealed *mcr-1* co-harbored on the chromosome within a multi-drug resistance (MDR) cassette ($sul1$, $dfrA$).
+* **Stabilized Traps:** Genomic screening supports the transition from "Mobile Traps" to "Stabilized Traps".
+
+### Key Implication
+This provides the physical evidence for the persistence observed in longitudinal data. Once integrated into the chromosome, *mcr-1* becomes a permanent fixture of high-fitness lineages.
+
 ## 1. Project Overview
 This project serves as a technical proof-of-concept for the PhD research proposal by Makiko Fujita-Suzanne.My research focuses on the **"Integron Trap" hypothesis**: the risk that the use of traditional antibiotics considered as safe (Sulfonamides/Trimethoprim) in livestock may co-select for critical resistance genes (such as *mcr-1* for Colistin) due to genetic linkage on mobile genetic elements.
 
